@@ -1,5 +1,8 @@
 # CRUDMean
-Application will records the daily scrum todo tasks. Built using Node - Express JS &amp; Mongo DB(m-Lab).
+- Designed backend services using Express JS framework for recording meeting notes
+• Used m-Lab - a cloud platform for MongoDB, for storing records 
+• Engineered swig template engine for rendering and creating HTML templates 
+
 
 Run following command after downloading files
 1. npm install
